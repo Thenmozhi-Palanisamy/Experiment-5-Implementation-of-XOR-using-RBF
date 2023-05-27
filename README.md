@@ -138,7 +138,7 @@ print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
 
 
-
+````
 ## OUTPUT :
    ![image](https://github.com/Thenmozhi-Palanisamy/Experiment-5-Implementation-of-XOR-using-RBF/assets/95198708/7b3eae4c-5275-4118-8a36-f734cf235f0d)
    
